@@ -5,7 +5,7 @@
 
 [<img src="https://www.innovasoftware.dev/static/core/img/default.jpeg">][website]
 
-### 💻 Web and Android Developer, freelancer and lover of technology 
+### 💻 Web, Android Developer, freelancer and lover of technology 
 
 
 - 🔭 I’m currently working on [Innovasoftware][website]
